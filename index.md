@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hello World! Welcome to My Personal Blog
 
-I'm glad you are here. I plan to talk about ...
+I'm so glad you are here because I plan to talk about many things.
